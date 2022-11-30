@@ -1,0 +1,24 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.9.13",
+    "heartbeatAt": "2022-11-05T11:17:42.753689",
+    "startedAt": "2022-11-05T11:17:39.614510",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1050",
+    "gpu_count": 1,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "f:\\industry-dection\\yolov5\\train.py",
+    "codePath": "yolov5\\train.py",
+    "git": {
+        "remote": "https://gitee.com/xukang888/industry-dection.git",
+        "commit": null
+    },
+    "email": "2391446563@qq.com",
+    "root": "F:/industry-dection",
+    "host": "DESKTOP-2KUI8H6",
+    "username": "Administrator",
+    "executable": "E:\\AppInstall\\Anaconda3\\envs\\pytorch\\python.exe"
+}

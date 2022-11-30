@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GIT/DeepLabV3Plus-Pytorch/.idea/DeepLabV3Plus-Pytorch.iml" filepath="$PROJECT_DIR$/../GIT/DeepLabV3Plus-Pytorch/.idea/DeepLabV3Plus-Pytorch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FastReID/.idea/FastReID.iml" filepath="$PROJECT_DIR$/../FastReID/.idea/FastReID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Gitee/.idea/Gitee.iml" filepath="$PROJECT_DIR$/../Gitee/.idea/Gitee.iml" />
+      <module fileurl="file://D:/DeskTop/MyProjects/.idea/MyProjects.iml" filepath="D:/DeskTop/MyProjects/.idea/MyProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GIT/deeplabv3plus/.idea/deeplabv3plus.iml" filepath="$PROJECT_DIR$/../GIT/deeplabv3plus/.idea/deeplabv3plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/industry-dection.iml" filepath="$PROJECT_DIR$/.idea/industry-dection.iml" />
+      <module fileurl="file://D:/DeskTop/MyData/johny/.idea/johny.iml" filepath="D:/DeskTop/MyData/johny/.idea/johny.iml" />
+    </modules>
+  </component>
+</project>

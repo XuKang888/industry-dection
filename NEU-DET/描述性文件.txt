@@ -1,0 +1,4 @@
+train:
+python train.py --data ../NEU-DET/data.yaml --cfg models/yolov5s.yaml --batch-size 9 --epochs 20
+dectect:
+python dectect.py --weight run/exp5/weights/last.pt --source 0 --output ../NEU-DET/output

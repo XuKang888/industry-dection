@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations" : [
+
+        {
+            "name": "local",
+            "type": "python",
+            "stopOnEntry": false,
+            "request": "launch",
+            "program" : "${workspaceFolder}\\yolov5\\app.py",
+            "console" : "integratedTerminal",
+            "justMyCode" : false,
+            "cwd": "${workspaceFolder}\\yolov5"
+        }
+    ]
+}
